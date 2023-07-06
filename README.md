@@ -13,5 +13,4 @@
 **Commented part in CalculatorTest.java**
 - This part is where the code would break to indicate the bugs.
 - This is data type validation where exceptions should be handled.
-- 
 
